@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\bin\Debug\net6.0\Auction House.exe
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\bin\Debug\net6.0\Auction House.deps.json
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\bin\Debug\net6.0\Auction House.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\bin\Debug\net6.0\Auction House.dll
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\bin\Debug\net6.0\Auction House.pdb
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\Auction House.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\Auction House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\Auction House.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\Auction House.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\Auction House.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\Auction House.dll
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\refint\Auction House.dll
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\Auction House.pdb
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\Auction House.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documents\github\Cs repos\Assignment 2\Assignment 2\obj\Debug\net6.0\ref\Auction House.dll
